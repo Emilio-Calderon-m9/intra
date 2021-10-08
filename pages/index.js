@@ -9,6 +9,10 @@ export default function Home() {
         <input name='name'/>
       <label>Phone</label>
         <input name='phone'/>
+      <label>Message</label>
+        <input name='msg'/>
+
+      <button name='save'>Enregistrer</button>
     </div>
   )
 }
